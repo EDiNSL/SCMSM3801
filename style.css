@@ -147,7 +147,7 @@ Their part is .graph that is set to flex and they are placed within it.
     text-align: center; /* Aligns image in the center of this div */
 }
 #compare{
-    width: 60vw;
+    width: 50vw;
     height: auto;
 }
 
