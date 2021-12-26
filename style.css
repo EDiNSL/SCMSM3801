@@ -303,5 +303,21 @@ Their part is .graph that is set to flex and they are placed within it.
     .header {
         background-position-x: center;
     }
+
+    
+    .footer {
+        background-position-x: center;
+    }
+    
+    .footer #title{
+        font-size: 3rem; 
+    
+    }
+    
+    .footer #subtitle{
+        
+        font-size: 1.5rem;
+    
+    }
     
 }
